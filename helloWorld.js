@@ -1,6 +1,7 @@
 const helloWorld = function() {
   return 'Hello world!';
 };
+console.log("hello new gituhb commit");
 
 const heyThere = function() {
   return 'Not that easy :)';
